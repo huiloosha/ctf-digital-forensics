@@ -1,2 +1,3 @@
 # ctf-digital-forensics
-PDF с документацией, скриншоты, скрипты
+PDF documentation, screenshots, scripts
+**Description:** Solved digital forensics challenges including cryptography and log analysis.
